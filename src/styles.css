@@ -1,0 +1,89 @@
+body {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px;
+}
+.card {
+  padding: 25px 50px;
+  border-color: #ffffff;
+  border-radius: 10px;
+  background: linear-gradient(to top, #feada6 0%, #f5efef 100%);
+  max-width: 700px;
+  max-height: 900px;
+}
+
+.continent {
+  padding: 10px;
+  margin: 15px;
+}
+.container {
+  margin: 0 auto;
+}
+.btn-success {
+  border: 1mm thin #ffffff;
+  background: #ffffff;
+  border-radius: 30px;
+  color: #000000;
+  position: relative;
+  right: -60px;
+}
+
+#current-location-button {
+  border: 1mm thin #ffffff;
+  background: #ffffff;
+  border-radius: 30px;
+  color: #000000;
+  position: relative;
+  right: -160px;
+  bottom: 38px;
+}
+
+.continent {
+  color: blueviolet;
+  margin: 15px 0 0;
+  padding: 10px 0 0;
+}
+h1 {
+  color: #32498c;
+  padding: 10px 0;
+  margin: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+p {
+  color: #32498c;
+  font-size: 24px;
+  padding: 15px 0;
+  margin: 10px 0;
+}
+
+.status {
+  color: #32498c;
+  font-size: 24px;
+  padding: 0px;
+  margin: 10px 0;
+}
+
+.units {
+  position: relative;
+  top: -12px;
+  color: darkcyan;
+}
+.icon {
+  width: 100px;
+  position: relative;
+  left: 50px;
+}
+.currentTemperature {
+  color: #55acee;
+  padding: 10px 0;
+  font-size: 30px;
+}
+
+.temperature {
+  color: darkcyan;
+  padding: 10px;
+}
+.day {
+  color: darkorchid;
+  padding: 10px;
+}
